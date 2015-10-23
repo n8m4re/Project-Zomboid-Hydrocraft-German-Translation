@@ -12,11 +12,10 @@ Das hier sind nur die Sprachdateien für die Mod! Die Mod muss zusätzlich abbon
 
 
 # Installation
-Den im ZIP-Archiv enthaltenen "HydrocraftGermanTranslation"-Ordner nach "C:\Benutzer\{BENUTZERNAME}\Zomboid\mods" kopieren und ggf. überschreiben lassen.
+Den im ZIP-Archiv unter "Project-Zomboid-Hydrocraft-German-Translation-master" 
+enthaltenen "HydrocraftGermanTranslation"-Ordner nach "C:\Benutzer\{BENUTZERNAME}\Zomboid\mods" kopieren und ggf. überschreiben lassen.
  
- 
-oder via Steam Workshop: 
-http://steamcommunity.com/sharedfiles/filedetails/?id=523540067
+oder via Steam Workshop abbonieren: http://steamcommunity.com/sharedfiles/filedetails/?id=523540067
  
  
 # Mitwirkende (Contributors)
