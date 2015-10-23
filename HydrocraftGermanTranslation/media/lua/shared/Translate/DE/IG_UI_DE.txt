@@ -1,0 +1,10 @@
+IGUI_DE = {
+	IGUI_CraftCategory_Alchemy = "Alchimie",
+	IGUI_CraftCategory_Masonry = "Mauerwerk",
+	IGUI_CraftCategory_Ranching = "Tierhaltung",
+	IGUI_CraftCategory_Leisure = "Freizeit",
+	IGUI_CraftCategory_Weaving = "Weberei",
+	IGUI_CraftCategory_Blacksmithing = "Schmiedekunst",
+	IGUI_CraftCategory_Pottery = "Töpferei",
+	IGUI_CraftCategory_Stoneworking = "Steinbearbeitung",
+}
