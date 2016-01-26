@@ -1,4 +1,4 @@
-![Alt text](http://tools.n8m4re.de/downloads/ProjectZomboid/misc/HydrocraftGermanTranslation.png "Spiffo")
+![Alt text](https://github.com/n8m4re/Project-Zomboid-Hydrocraft-German-Translation/blob/master/Workshop/HydrocraftGermanTranslation/preview.png "Hydrocraft")
 
 # Deutsche Übersetzung für die Hydrocraft-Mod 
 
