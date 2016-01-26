@@ -1,4 +1,5 @@
 IGUI_DE = {
+	IGUI_ItemCat_Toy = "Spielzeug",
 	IGUI_CraftCategory_Alchemy = "Alchimie",
 	IGUI_CraftCategory_Masonry = "Mauerwerk",
 	IGUI_CraftCategory_Ranching = "Tierhaltung",

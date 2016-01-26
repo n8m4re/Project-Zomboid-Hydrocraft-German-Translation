@@ -1,4 +1,6 @@
 Recipes_DE = {	
+	Recipe_Unpack_Cigarettes = "Zigaretten auspacken",
+	Recipe_Wax_Cheddar_Cheese = "Cheddar-K‰selaib einwachsen",
 	Recipe_Add_Bonnet_to_Wagon = "Plane an Wagen montieren",
 	Recipe_Add_Bonnet_to_Wagon_with_Oxen = "Plane an Wagen mit Ochsen montieren",
 	Recipe_Add_Duct_Tape_Pouches_to_Big_Hiking_Bag = "Groﬂer Wanderrucksack mit Taschen aus Klebeband versehen",
